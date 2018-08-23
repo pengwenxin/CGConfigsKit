@@ -1,0 +1,22 @@
+{
+  "name": "CGConfigsKit",
+  "version": "1",
+  "summary": "A short description of CGConfigsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pengwenxin/CGConfigsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pengwenxin": "980120476@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/pengwenxin/CGConfigsKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CGConfigsKit/Classes/**/*"
+}

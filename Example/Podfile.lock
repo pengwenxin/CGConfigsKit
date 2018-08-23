@@ -1,0 +1,16 @@
+PODS:
+  - CGConfigsKit (1)
+
+DEPENDENCIES:
+  - CGConfigsKit (from `../`)
+
+EXTERNAL SOURCES:
+  CGConfigsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGConfigsKit: 17309d6d46f1ede32f75028a2097bd279beaa0a5
+
+PODFILE CHECKSUM: 7983bbbde25dc47057ffba2c3da40d7c4f990e7f
+
+COCOAPODS: 1.5.3
