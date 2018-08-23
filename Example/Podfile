@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CGConfigsKit_Example' do
+  pod 'CGConfigsKit', :path => '../'
+
+  target 'CGConfigsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
